@@ -14,4 +14,4 @@ pycparser==2.20
 requests==2.25.1
 tdigest==0.5.2.2
 typing-extensions==3.7.4.3
-yarl==1.1.0
+yarl==1.6.3
