@@ -23,7 +23,7 @@ jobs:
     - uses: docker/login-action@v1
       with:
         registry: ghcr.io
-        username: alunir-bot
+        username: ${{ github.repository_owner }}
         password: ${{ secrets.PAT }}
 
     - uses: docker/build-push-action@v2
