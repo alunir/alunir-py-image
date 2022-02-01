@@ -6,7 +6,7 @@ ccxt==1.51.49
 cffi==1.14.5
 cryptography==3.4.7
 filterpy==1.4.5
-multidict==5.1.0
+multidict==6.0.2
 pandas==1.2.4
 protobuf==3.17.3
 pybit==1.1.18
