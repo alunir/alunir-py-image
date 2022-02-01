@@ -14,5 +14,5 @@ pycares==4.0.0
 pycparser==2.20
 requests==2.25.1
 tdigest==0.5.2.2
-typing-extensions==3.10.0.0
+typing-extensions==4.0.1
 yarl==1.6.3
